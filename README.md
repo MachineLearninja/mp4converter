@@ -2,8 +2,8 @@
 
 This Script uses **ffmpeg** and **youtube-dl**, to download and convert a Video from youtube to the mp4 format. The downloaded video is stored under the dl directory. It will not be deleted if you don't use the -r option.
 
-Usage: ./converter.sh [URL] [Options] <br>
-Example: ./converter.sh https://www.youtube.com/watch?v=dQw4w9WgXcQ -d 30 -o output.mp4<br>
+Usage: ``` ./converter.sh [URL] [Options]``` <br>
+Example: ```./converter.sh https://www.youtube.com/watch?v=dQw4w9WgXcQ -d 30 -o output.mp4```<br>
 
 
 Options:<br>
