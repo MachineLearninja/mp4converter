@@ -1,4 +1,4 @@
-##YouTube Video Converter Script Version 0.5b
+## YouTube Video Converter Script Version 0.5b
 
 This Script uses **ffmpeg** and **youtube-dl**, to download and convert a Video from youtube to the mp4 format. The downloaded video is stored under the dl directory. It will not be deleted if you don't use the -r option.
 
